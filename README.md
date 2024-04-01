@@ -19,7 +19,8 @@
     PPT-소개/개발환경/일정/역할분배
   </summary>
   
-![Slide1](https://github.com/dwdwdw12/project/assets/147116004/8b82ffb3-b53d-4f57-acd0-9483b95ba4ee)
+![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/95db3948-7435-4922-b789-4e098dfb8df1)
+
 ![Slide2](https://github.com/dwdwdw12/project/assets/147116004/e9df7646-4ac6-4355-b375-e9074f15aadd)
 ![Slide3](https://github.com/dwdwdw12/project/assets/147116004/11860b4c-8660-4420-a6f7-1343b2afa847)
 ![Slide4](https://github.com/dwdwdw12/project/assets/147116004/14ef5021-f0bd-4f4a-bbf2-22cf967562f4)
