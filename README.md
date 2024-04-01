@@ -99,7 +99,9 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 ## 🙋‍♀ 조원
 
 #### [김정훈 @kjhun2727](https://github.com/kimjjjhun) : 회원가입, 아이디 및 패스워드 찾기, 마이페이지(회원정보수정), 카카오 로그인, 헤더 , CSS
-
+#### [임재현(조장) @kjhun2727](https://github.com/kimjjjhun) : 마이페이지(개인정보변경, 작성한게시글 확인, 회원탈퇴, 찜 목록(작품,게시글) , CSS
+#### [권성찬 @kjhun2727](https://github.com/kimjjjhun) : 컨텐츠 작품보기, 게시판목록확인, 게시글(등록,수정,삭제), 댓글작성, CSS
+#### [이효빈 @kjhun2727](https://github.com/kimjjjhun) : 관리자(목록보기,계정삭제), 컨텐츠관리(등록,확인,수정,삭제), 게시글삭제, Q&A답변, 일반회원(Q&A(문의글등록,수정,삭제),컨텐츠보기,메인페이지, 푸터, CSS 
 ## 📈 기능 명세서
 <details>
   <summary>
@@ -107,6 +109,14 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
   </summary>
   
 ![기능명세](https://github.com/dwdwdw12/project/assets/147116004/472593a0-f0a9-4a92-8e59-26bf0b1c4b23)
+
+</details>
+
+## 🥇 프로젝트 소감 및 해결방안
+<details>
+  
+![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/35c81e7b-ae65-400f-a419-cfeddde1676e)
+
 
 </details>
 
