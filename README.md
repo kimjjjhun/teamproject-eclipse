@@ -18,14 +18,11 @@
   <summary>
     PPT-소개/개발환경/일정/역할분배
   </summary>
-  
-![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/95db3948-7435-4922-b789-4e098dfb8df1)
 
-![Slide2](https://github.com/dwdwdw12/project/assets/147116004/e9df7646-4ac6-4355-b375-e9074f15aadd)
-![Slide3](https://github.com/dwdwdw12/project/assets/147116004/11860b4c-8660-4420-a6f7-1343b2afa847)
-![Slide4](https://github.com/dwdwdw12/project/assets/147116004/14ef5021-f0bd-4f4a-bbf2-22cf967562f4)
-![Slide5](https://github.com/dwdwdw12/project/assets/147116004/e3e33986-fadb-4c0c-bf13-c6b82cf2ba11)
-![Slide6](https://github.com/dwdwdw12/project_springframework/assets/147116004/b9ea119f-beef-407f-952c-411a9d9fc586)
+![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/77229d1b-3d4b-42c4-90a9-7c17e2cf5ce8)
+![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/95db3948-7435-4922-b789-4e098dfb8df1)
+![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/82ecf60b-9672-4bb5-933c-f0b267706c01)
+![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/1ca115d7-04cc-48a3-92aa-d227aa89674e)
 
 </details>
 <details>
