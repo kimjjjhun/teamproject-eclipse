@@ -98,7 +98,7 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 
 ## 🙋‍♀ 조원
 
-#### [김정훈 @yjeongyjeong](https://github.com/yjeongyjeong) : 회원가입, 아이디 및 패스워드 찾기, 마이페이지(회원정보수정), 카카오 로그인, 헤더 , CSS
+#### [김정훈 @kjhun2727](https://github.com/kimjjjhun) : 회원가입, 아이디 및 패스워드 찾기, 마이페이지(회원정보수정), 카카오 로그인, 헤더 , CSS
 
 ## 📈 기능 명세서
 <details>
