@@ -29,9 +29,11 @@
   <summary>
     PPT-기능 요구사항
   </summary>
+
 ![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/d2da8b18-ece6-4006-a3b1-0a513927290b)
 ![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/3f2c6e4c-25dd-4769-bb11-74814b24fa7e)
 ![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/49f2d147-f8e5-4fff-b71a-421ed94f518d)
+
 </details>
 <details>
   <summary>
