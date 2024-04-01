@@ -141,23 +141,7 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
   <br>
 *메인화면/로그인/마이페이지 메인/정보 페이지
   
-![Class1](https://github.com/dwdwdw12/project/assets/147116004/a5918349-33b3-400a-9063-3275c5e0f5ad)
-<br><br>
-*회원가입
-![Class2](https://github.com/dwdwdw12/project/assets/147116004/88bf2d84-0524-4eb7-81a3-8eceee1d1c17)
-<br><br>
-*마이페이지
-![Class3](https://github.com/dwdwdw12/project/assets/147116004/52276d13-a802-418b-90cf-f7e0d7a202f5)
-<br><br>
-*항공편 검색 및 예약
-![Class4](https://github.com/dwdwdw12/project/assets/147116004/53ee5916-fd4c-4e52-bfbf-ba5536fb10ef)
-<br><br>
-*공지사항/Q&A 게시판
-![Class5](https://github.com/dwdwdw12/project/assets/147116004/54b24139-787a-4e28-b883-7353ddd7d92d)
-<br><br>
-*여행일기/이벤트 게시판
-![Class6](https://github.com/dwdwdw12/project/assets/147116004/1c9929f1-797d-4a5f-8608-7961281b312f)
-
+![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/bb314014-0724-4a29-9bab-aa1dda0c91d2)
 
 </details>
 
