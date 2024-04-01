@@ -582,15 +582,6 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/047e036d-96fb-49bf-a
 
 <details>
   <summary>
-    여행일기 게시판
-  </summary>
-
-https://github.com/dwdwdw12/project_spring/assets/147116004/2381e34b-96f8-4807-8dd4-208a39655a60
-
-</details>
-
-<details>
-  <summary>
     이벤트 게시판
   </summary>
 
