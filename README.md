@@ -51,8 +51,6 @@
     PPT-화면구현 및 소감
   </summary>
 
-![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/9f1eb6a4-f997-413c-9784-2b940e2f41ae)
-
 ![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/83fba9f7-1900-4200-ab39-255e7f1ed589)
 
 
