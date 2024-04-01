@@ -38,8 +38,7 @@
     PPT-다이어그램
   </summary>
 
-![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/0ae63383-2b0b-4593-a7b6-7a9107918b98)
-![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/b5161d68-77d5-45cc-92a6-d6ef3f2afa78)
+
 ![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/5a1b36f5-03cb-47e2-9dae-31fbcaab8a0f)
 ![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/e42a1326-766e-4d3e-a441-9c95d0140049)
 
@@ -118,7 +117,9 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
     Usecase Diagram
   </summary>
   
-  ![Usecase](https://github.com/dwdwdw12/project/assets/147116004/18a1ee61-11a2-4283-bf6a-693251756d6d)
+![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/2d8125f6-ad36-4e9d-a05f-d0a20b1874ef)
+![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/a1d9052c-7140-43fd-9b4c-5c14dcc644de)
+
 
 </details>
 
@@ -127,7 +128,8 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
     ER Diagram
   </summary>
   
-  ![ERD](https://github.com/dwdwdw12/project/assets/147116004/9b62b504-130a-471a-b26f-00b035efc8f4)
+  ![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/03695c38-0486-4689-8ff4-73588e737f4f)
+
 
 
 </details>
