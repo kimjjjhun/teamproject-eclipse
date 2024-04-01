@@ -114,7 +114,7 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 
 ## 🥇 프로젝트 소감 및 해결방안
 <details>
-  
+
 ![image](https://github.com/kimjjjhun/teamproject1/assets/157094653/35c81e7b-ae65-400f-a419-cfeddde1676e)
 
 
