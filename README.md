@@ -241,23 +241,6 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 
 </details>
 
-<details>
-  <summary>
-    휴면회원 풀기
-  </summary>
-  
-  ![Slide5](https://github.com/dwdwdw12/project/assets/147116004/670713b7-b8d1-4f20-a78b-1a687771dfa4)
-
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/13bb86ab-f750-4c2f-8c5d-0862ff21a645" width="70%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/9b4ef373-1835-4289-938c-aff58736611b" width="29%">
-</p>
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/00ecf74f-197a-413c-841e-21d15fe57824" width="70%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/9c764db9-dec8-4ac1-9e50-093b82d1f9ba" width="29%">
-</p>
-
-</details>
 
 <details>
   <summary>
