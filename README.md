@@ -98,10 +98,10 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 
 ## 🙋‍♀ 조원
 
-#### [김정훈 @kjhun2727](https://github.com/kimjjjhun) : 회원가입, 아이디 및 패스워드 찾기, 마이페이지(회원정보수정), 카카오 로그인, 헤더 , CSS
-#### [임재현(조장) @kjhun2727](https://github.com/kimjjjhun) : 마이페이지(개인정보변경, 작성한게시글 확인, 회원탈퇴, 찜 목록(작품,게시글) , CSS
-#### [권성찬 @kjhun2727](https://github.com/kimjjjhun) : 컨텐츠 작품보기, 게시판목록확인, 게시글(등록,수정,삭제), 댓글작성, CSS
-#### [이효빈 @kjhun2727](https://github.com/kimjjjhun) : 관리자(목록보기,계정삭제), 컨텐츠관리(등록,확인,수정,삭제), 게시글삭제, Q&A답변, 일반회원(Q&A(문의글등록,수정,삭제),컨텐츠보기,메인페이지, 푸터, CSS 
+#### [김정훈 @kimjjjhun](https://github.com/kimjjjhun) : 회원가입, 아이디 및 패스워드 찾기, 마이페이지(회원정보수정), 카카오 로그인, 헤더 , CSS
+#### [임재현(조장) @ubeopoo](https://github.com/ubeopoo) : 마이페이지(개인정보변경, 작성한게시글 확인, 회원탈퇴, 찜 목록(작품,게시글) , CSS
+#### [권성찬 @SungChanKwon](https://github.com/SungChanKwon) : 컨텐츠 작품보기, 게시판목록확인, 게시글(등록,수정,삭제), 댓글작성, CSS
+#### [이효빈 @LeeHyob](https://github.com/LeeHyob) : 관리자(목록보기,계정삭제), 컨텐츠관리(등록,확인,수정,삭제), 게시글삭제, Q&A답변, 일반회원(Q&A(문의글등록,수정,삭제),컨텐츠보기,메인페이지, 푸터, CSS 
 ## 📈 기능 명세서
 <details>
   <summary>
