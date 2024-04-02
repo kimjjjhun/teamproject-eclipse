@@ -349,24 +349,6 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 
 <details>
   <summary>
-    항공편 검색/출도착 조회
-  </summary>
-  
-  ![Slide9](https://github.com/dwdwdw12/project/assets/147116004/0ec7da22-7129-4a9b-8f43-bc091074cbe5)
-
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/841cbdab-c4b7-47e7-a728-f587f4cac0c1" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/b672d2be-8fff-4400-90b0-5353afd9bf59" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/a69821d9-a712-4d69-be23-f6d096ec1b06" width="32%">
-</p>
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/cd7e1c89-24b4-4663-b690-255f8caf22ee" width="49%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/2c46573d-ec3f-48e4-a4c6-145857aab247" width="49%">
-</p>
-</details>
-
-<details>
-  <summary>
     예약 및 결제
   </summary>
   
@@ -419,25 +401,6 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 <p align="center">
   <img src="https://github.com/dwdwdw12/project/assets/147116004/a8c6be78-9222-449d-827a-ba2b1f4f7810" width="49%">
   <img src="https://github.com/dwdwdw12/project/assets/147116004/771e3c13-6af0-41b7-a82c-5fa6c2fcde7b" width="49%">
-</p>
-
-</details>
-
-<details>
-  <summary>
-    여행일기 게시판
-  </summary>
-  
-  ![Slide13](https://github.com/dwdwdw12/project/assets/147116004/a4b4cb64-a847-4561-a170-5068fb7e336b)
-
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/cd63b449-f0db-42b7-a41d-e0e370240e0c" width="49%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/143e32d7-ed60-4303-9f5c-7d748c988acb" width="49%">
-</p>
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/b95fa0e0-9bee-4e8f-ae81-55214e50d345" width="45%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/24d3aa9c-d219-4c4e-9d7b-dfa9b1ee4f7b" width="25%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/13df9783-b572-4006-a570-980cc8d97a31" width="25%">
 </p>
 
 </details>
