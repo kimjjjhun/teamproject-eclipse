@@ -347,24 +347,6 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 
 </details>
 
-<details>
-  <summary>
-    예약 및 결제
-  </summary>
-  
-  ![Slide10](https://github.com/dwdwdw12/project/assets/147116004/28da7b1e-4699-4a2f-8441-cc227ea78086)
-
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/7a3892fa-2cb7-4c6a-85a1-d25a054e35be" width="49%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/70e29ab4-3958-48aa-86ea-ad2036d97ddc" width="49%">
-</p>
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/97ec5046-074f-4d47-9452-dd11de999d42" width="35%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/ad3086ef-dbc6-467d-baa3-1b641ac604f4" width="42%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/a7167961-ace5-4fd4-b004-9ded5d4c1682" width="19%">
-</p>
-
-</details>
 
 <details>
   <summary>
@@ -481,14 +463,6 @@ https://github.com/dwdwdw12/project_spring/assets/147116004/4ac4c0a6-851c-432f-8
 
 </details>
 
-<details>
-  <summary>
-    예약 및 결제
-  </summary>
-  
-https://github.com/dwdwdw12/project_spring/assets/147116004/8799aa79-45e6-4b73-9d04-6e6bc4d73397
-
-</details>
 
 <details>
   <summary>
