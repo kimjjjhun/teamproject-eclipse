@@ -297,7 +297,6 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
     Project-eclipse
   </summary>
   
-https://github.com/dwdwdw12/project_spring/assets/147116004/a29e680b-7fb6-4754-ac8d-cfdf26713e09
 
 </details>
 
