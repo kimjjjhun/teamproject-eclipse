@@ -204,21 +204,6 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 
 <details>
   <summary>
-    회원가입(카카오)
-  </summary>
-  
-  ![Slide3](https://github.com/dwdwdw12/project/assets/147116004/f8e74662-42a4-40b0-9cba-f89818b25318)
-
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/14d0cba7-5e5f-4875-9258-d8d5a80ab4d0" width="49%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/4b7086e1-d146-4d33-8656-2ee56250f535" width="49%">
-</p>
-
-
-</details>
-
-<details>
-  <summary>
     아이디/비밀번호 찾기
   </summary>
   
