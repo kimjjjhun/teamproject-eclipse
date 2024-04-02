@@ -298,46 +298,6 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 
 <details>
   <summary>
-    회원편의
-  </summary>
-  
-  ![Slide8](https://github.com/dwdwdw12/project/assets/147116004/0c6e3f38-d2fa-4f80-97fe-e9db4ef26a50)
-
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/b4581bcb-b501-4f56-b94a-334e677a4b35" width="49%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/5beeecdb-3271-487a-b064-b1c311f000d4" width="49%">
-</p>
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/466a72eb-84b1-4bd5-99eb-2d23c5adf244" width="37%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/89eacade-e114-409b-a464-669bcdf6a54e" width="20%" height="250px">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/b93ffa73-705b-40e8-a165-8b74e0d811c2" width="37%">
-</p>
-
-</details>
-
-
-<details>
-  <summary>
-    공지사항
-  </summary>
-  
-  ![Slide11](https://github.com/dwdwdw12/project/assets/147116004/4a1b6573-cf67-4b38-8c02-d6ae3cb4a0fa)
-
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/6da9a195-3bd0-4436-8e4d-29ae9d24c3cd" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/0adb3d9a-1fc1-49e7-9cdd-0a909f6fa29e" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/c07af5e8-8a00-4268-aef6-b6fbdb85073a" width="32%">
-</p>
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/df9e3f07-7e3f-4176-aadb-c9dfd00794f4" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/aa263f69-abd3-4270-8d78-1f1b1df05bcf" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/a0784cfb-52d8-42df-8b5f-7a47484fae93" width="32%">
-</p>
-
-</details>
-
-<details>
-  <summary>
     Q&A 게시판
   </summary>
   
@@ -355,25 +315,6 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 
 </details>
 
-<details>
-  <summary>
-    이벤트 게시판
-  </summary>
-  
-  ![Slide14](https://github.com/dwdwdw12/project/assets/147116004/7ccaaa08-86e2-478b-be64-d330885f65d5)
-
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/9fc78aa9-95ef-46cd-9bdd-95312299f74a" width="55%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/0e10a8c7-4452-4d70-96c2-eadd2dcdab05" width="43%">
-</p>
-
-![image85](https://github.com/dwdwdw12/project/assets/147116004/bc70ebb2-c3ac-49a6-aaae-e32007bf6f33)
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/ccb405c4-5f7d-4f2d-90de-3c6152ffd20e" width="43%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/3b5019e0-e94f-4cc2-95fa-0bddf17aa2ce" width="55%">
-</p>
-
-</details>
 
 ## 🎥 시연 영상
 
