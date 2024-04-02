@@ -157,18 +157,13 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
     헤더/메인화면
   </summary>
   
-  ![Slide1](https://github.com/dwdwdw12/project/assets/147116004/04e589df-264e-4c87-8d3e-e2c2b61b4c27)
-
-![image1](https://github.com/dwdwdw12/project/assets/147116004/aaf5b0f3-c351-46df-bbcd-808d0ed7b7ed)
-![image2](https://github.com/dwdwdw12/project/assets/147116004/723c50c4-12ff-4780-8ed7-b0b0fda6b875)
+ 
 
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/2d4e702c-cc2b-4a05-b212-044eb448c565" width="49%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/9ffaa936-d14d-4a71-9c61-84bc470bfbb3" width="49%">
+  
 </p>
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/847719eb-9502-4cc9-b801-aa183eb78ed6" width="49%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/e363c3df-18a5-4cf3-85f5-00966c6c0e13" width="49%">
+ 
 </p>
 
 
@@ -179,17 +174,13 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
     회원가입(일반)
   </summary>
   
-  ![Slide2](https://github.com/dwdwdw12/project/assets/147116004/91beaca7-c595-4558-9b98-37594905ebb4)
+ 
 
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/efed7070-6780-49b2-84c4-15f79358797c" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/6e13f819-e4fe-4f9f-ab60-c1017b5103d9" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/faac2c65-14ae-4753-8554-1880833b17be" width="32%">
+ 
 </p>
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/3f54ea69-2831-4819-a424-5d90f5b8ac76" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/6cf5ecfe-40d3-46a0-97fb-1576c7ba497a" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/7e761909-213f-4338-81b8-458f6e5ed0ca" width="32%">
+  
 </p>
 
 
@@ -200,20 +191,14 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
     아이디/비밀번호 찾기
   </summary>
   
-  ![Slide4](https://github.com/dwdwdw12/project/assets/147116004/75e7f50d-b5e0-43ea-a90a-395b4f9d5d4c)
+ 
 
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/54609715-cd96-41bd-a83d-9aced3b6058a" width="24%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/9b4ef373-1835-4289-938c-aff58736611b" width="24%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/00ecf74f-197a-413c-841e-21d15fe57824" width="24%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/007fd971-500d-4bb8-9a85-58cf9e4a958e" width="24%">
+ 
 </p>
 
-![image21](https://github.com/dwdwdw12/project/assets/147116004/81262dc0-7abb-4969-a3ef-06e387bc40c3)
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/b3909a1e-646f-4f1a-a01a-bc4954ce350f" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/9b4ef373-1835-4289-938c-aff58736611b" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/7421eacd-db59-423f-bd1a-32b4c995d830" width="32%">
+
 </p>
 
 
@@ -225,37 +210,25 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
     마이페이지(유저)
   </summary>
   
-  ![Slide6](https://github.com/dwdwdw12/project/assets/147116004/0c4f13c0-e87a-484d-a03a-c9d7534271b2)
+  
 
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/b3909a1e-646f-4f1a-a01a-bc4954ce350f" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/9b4ef373-1835-4289-938c-aff58736611b" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/7421eacd-db59-423f-bd1a-32b4c995d830" width="32%">
+  
 </p>
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/b3909a1e-646f-4f1a-a01a-bc4954ce350f" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/9b4ef373-1835-4289-938c-aff58736611b" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/7421eacd-db59-423f-bd1a-32b4c995d830" width="32%">
+ 
 </p>
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/ec3a2ca7-1cb8-4d62-a5d7-14e5b057ad6e" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/45bfbae0-da6e-45dd-8196-40921d42af2c" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/c7e5517f-c7ba-429a-a58a-a892d5bcc34c" width="32%">
+  
 </p>
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/9faadd36-8bb6-4183-aeb6-0ccec212907c" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/a3466d13-5e1f-4d41-8a89-0f796bc74968" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/9f167abd-10d2-4e2b-9e55-8fb2c70c965f" width="32%">
+  
 </p>
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/5b4822f7-5cfa-4c70-9a35-0e9d2771a0b1" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/8dfdf9f9-aa57-47c3-95a9-262f90126b62" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/b7540e0f-2a87-4111-b6df-381ed71e8f23" width="32%">
+ 
 </p>
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/c74d3082-810d-4c9d-a1c5-ccb1db14684f" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/ffa8cd32-4741-45a9-b7e7-d43fc51a0977" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/8393127e-1dfc-4adf-a45c-fe7307f1ab9a" width="32%">
+ 
 </p>
 
 </details>
@@ -265,26 +238,20 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
     마이페이지(관리자)
   </summary>
   
-  ![Slide7](https://github.com/dwdwdw12/project/assets/147116004/43517fd8-ee20-4fd1-ac01-1457d0ceafff)
+  
 
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/81b0005d-40ac-4340-b5a4-e44fec371a64" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/a7e6b264-f703-4202-824f-5902b9bb29f7" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/9b4f976c-0b55-4bfc-bb98-1ab208f89977" width="32%">
+
+</p>
+
+<p align="center">
+  
 </p>
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/080762cc-c834-46dc-8a4f-9db29367331d" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/0c334344-e95c-4d94-b786-bc9c355316fa" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/4d4199e6-d6d1-49cf-86e2-a0117a29186f" width="32%">
+ 
 </p>
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/a43fb603-f5dc-4216-aa7c-eb82f972e72c" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/62de792a-b29b-4f16-a105-1826849ab8f5" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/b0de8d63-7619-4c47-b832-1f3cf593a069" width="32%">
-</p>
-<p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/cf1302cf-19db-44f3-b149-39e51e52b0d6" width="49%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/f9fe9279-334b-4f15-a516-7b538e77d873" width="49%">
+  
 </p>
 
 </details>
@@ -294,16 +261,13 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
     Q&A 게시판
   </summary>
   
-  ![Slide12](https://github.com/dwdwdw12/project/assets/147116004/65b1aaa6-fde9-4f4e-9ca3-ecd13b652ffc)
+  
 
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/41c1d27d-716a-4e46-a3d0-fa14b605283c" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/1e7531d1-ae22-488b-bbc8-971c24907890" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/b1982b7d-7034-49de-bb9a-3891d1f56d19" width="32%">
+ 
 </p>
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/a8c6be78-9222-449d-827a-ba2b1f4f7810" width="49%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/771e3c13-6af0-41b7-a82c-5fa6c2fcde7b" width="49%">
+ 
 </p>
 
 </details>
@@ -313,16 +277,14 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
     컨텐츠 게시판
   </summary>
   
-  ![Slide12](https://github.com/dwdwdw12/project/assets/147116004/65b1aaa6-fde9-4f4e-9ca3-ecd13b652ffc)
+ 
 
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/41c1d27d-716a-4e46-a3d0-fa14b605283c" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/1e7531d1-ae22-488b-bbc8-971c24907890" width="32%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/b1982b7d-7034-49de-bb9a-3891d1f56d19" width="32%">
+ 
 </p>
+
 <p align="center">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/a8c6be78-9222-449d-827a-ba2b1f4f7810" width="49%">
-  <img src="https://github.com/dwdwdw12/project/assets/147116004/771e3c13-6af0-41b7-a82c-5fa6c2fcde7b" width="49%">
+ 
 </p>
 
 </details>
