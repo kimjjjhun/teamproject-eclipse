@@ -70,7 +70,6 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 <br>
 <img src="https://img.shields.io/badge/jquery-0769AD?style=flat&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=fff"/>
-<br>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
 <br>
 <img src="https://img.shields.io/badge/JSP-E34F26?style=flat-square&logo=JSP&logoColor=white">
