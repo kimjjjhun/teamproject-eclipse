@@ -315,6 +315,25 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
 
 </details>
 
+<details>
+  <summary>
+    컨텐츠 게시판
+  </summary>
+  
+  ![Slide12](https://github.com/dwdwdw12/project/assets/147116004/65b1aaa6-fde9-4f4e-9ca3-ecd13b652ffc)
+
+<p align="center">
+  <img src="https://github.com/dwdwdw12/project/assets/147116004/41c1d27d-716a-4e46-a3d0-fa14b605283c" width="32%">
+  <img src="https://github.com/dwdwdw12/project/assets/147116004/1e7531d1-ae22-488b-bbc8-971c24907890" width="32%">
+  <img src="https://github.com/dwdwdw12/project/assets/147116004/b1982b7d-7034-49de-bb9a-3891d1f56d19" width="32%">
+</p>
+<p align="center">
+  <img src="https://github.com/dwdwdw12/project/assets/147116004/a8c6be78-9222-449d-827a-ba2b1f4f7810" width="49%">
+  <img src="https://github.com/dwdwdw12/project/assets/147116004/771e3c13-6af0-41b7-a82c-5fa6c2fcde7b" width="49%">
+</p>
+
+</details>
+
 
 ## 🎥 시연 영상
 
