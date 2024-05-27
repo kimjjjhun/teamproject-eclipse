@@ -101,7 +101,7 @@ OTT-community 웹사이트를 구현해 보았습니다. 넷플릭스을 모델�
     기능 명세서
   </summary>
   
-![기능명세](https://github.com/dwdwdw12/project/assets/147116004/472593a0-f0a9-4a92-8e59-26bf0b1c4b23)
+![기능명세](https://github.com/)
 
 </details>
 
